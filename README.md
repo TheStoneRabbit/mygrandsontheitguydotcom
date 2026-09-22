@@ -41,6 +41,10 @@ seventies and to their adult children.
 
 - **Palette:** calm teal `#2b6b66` on warm cream `#fdfaf6`, warm amber `#a85615`
   for accents. No red — it reads as alarm to this audience.
+- **Logo:** illustrated circular portrait in the same teal. `assets/logo.png` is
+  the 512px master for marketing; `logo-sm.jpg` (128px) is what the pages load,
+  `logo-lg.jpg` (256px) feeds the Open Graph card, and `favicon.svg` wraps a
+  192px copy in a circular clip so the tab icon has transparent corners.
 - **Type:** Lora (serif headings, warm and human) + Inter (body). **19px base**,
   noticeably larger than a standard marketing site. This is the single most
   important accessibility decision on the page — don't shrink it.

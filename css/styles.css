@@ -137,12 +137,11 @@ h1, h2, h3, h4 {
 
 .brand { display: flex; align-items: center; gap: 13px; }
 .brand-mark {
-  width: 46px; height: 46px; flex: none;
-  border-radius: 13px; background: var(--teal);
-  display: grid; place-items: center;
-  box-shadow: 0 6px 16px rgba(43,107,102,.28);
+  width: 48px; height: 48px; flex: none;
+  border-radius: 50%; object-fit: cover;
+  background: var(--teal);
+  box-shadow: 0 4px 12px rgba(43,107,102,.26);
 }
-.brand-mark svg { width: 26px; height: 26px; }
 .brand-text { display: flex; flex-direction: column; line-height: 1.1; }
 .brand-name {
   font-family: var(--font-serif); font-weight: 600;

@@ -2,8 +2,10 @@
 
 Marketing site for **My Grandson The IT Guy** (mygrandsontheitguy.com), the
 consumer subscription line of Stone Rabbit Technologies LLC. Helps older and
-non-technical people in lower Fairfield County manage email, passwords, and
-their online accounts.
+non-technical people manage email, passwords, and their online accounts.
+
+**Fully remote** — phone and screen share only. No in-home visits, no service
+radius. Stamford is the address, not the boundary.
 
 Strategy, pricing derivation, and the legal/custody model live in the business
 repo: `docs/MY_GRANDSON_THE_IT_GUY.md`.

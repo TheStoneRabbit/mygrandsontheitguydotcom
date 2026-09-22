@@ -10,11 +10,17 @@ radius. Stamford is the address, not the boundary.
 Strategy, pricing derivation, and the legal/custody model live in the business
 repo: `docs/MY_GRANDSON_THE_IT_GUY.md`.
 
-## ⚠️ Do not point DNS at this yet
+## ⚠️ Live as a waitlist — not yet selling
 
-This site is **a draft**. Several things in §6 of the strategy doc must be done
-before it goes live — see the pre-launch checklist below. A live page selling a
-service that isn't legally set up is a real problem, not a cosmetic one.
+The site is published, but **it does not sell anything yet.** The hero and the
+plans section say enquiries are open and the first clients start in November,
+and the plan buttons read "Call to hold a place" rather than "Call to start".
+
+**Do not sign a client until E&O coverage is in force.** Talking to people is
+fine and getting on the phone is the whole point; taking custody of somebody's
+accounts uninsured is not. When the policy binds, flip the hero eyebrow, remove
+`.plans-notice`, and change the three plan buttons back to "Call to start" —
+that is the entire change.
 
 ## Stack
 
@@ -61,7 +67,7 @@ the fold or soften it.
 - [x] `privacy.html` and `terms.html` written — **need attorney review with template 04**
 - [ ] Replace the `ML` monogram with a real photograph. For this audience a
       face materially outperforms a monogram
-- [ ] Add a favicon and an Open Graph image to `assets/`
+- [x] Favicon and Open Graph image added to `assets/`
 - [ ] Trade name registered with the Stamford town clerk
 - [ ] E&O + general liability bound, in-home visits disclosed
 - [x] Yale outside-activity policy cleared (2026-09-22)

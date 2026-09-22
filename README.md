@@ -62,7 +62,7 @@ the fold or soften it.
 - [ ] Add a favicon and an Open Graph image to `assets/`
 - [ ] Trade name registered with the Stamford town clerk
 - [ ] E&O + general liability bound, in-home visits disclosed
-- [ ] Yale outside-activity policy cleared
+- [x] Yale outside-activity policy cleared (2026-09-22)
 - [ ] Subscription agreement drafted and attorney-reviewed
 - [ ] Replace the example monthly summary with a real (anonymised) one
 - [ ] Add testimonials once the founding cohort exists — this section is

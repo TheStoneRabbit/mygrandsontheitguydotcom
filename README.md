@@ -58,7 +58,7 @@ the fold or soften it.
 
 - [ ] Create the mailboxes: `hello@mygrandsontheitguy.com` and
       `check@mygrandsontheitguy.com` (both are referenced on the page)
-- [ ] Write `privacy.html` and `terms.html` — the footer links to both
+- [x] `privacy.html` and `terms.html` written — **need attorney review with template 04**
 - [ ] Replace the `ML` monogram with a real photograph. For this audience a
       face materially outperforms a monogram
 - [ ] Add a favicon and an Open Graph image to `assets/`

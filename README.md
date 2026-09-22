@@ -66,8 +66,7 @@ the fold or soften it.
 
 ## Pre-launch checklist
 
-- [ ] Create the mailboxes: `hello@mygrandsontheitguy.com` and
-      `check@mygrandsontheitguy.com` (both are referenced on the page)
+- [x] Mailboxes live on Proton: `hello@` and `check@mygrandsontheitguy.com`
 - [x] `privacy.html` and `terms.html` written — **need attorney review with template 04**
 - [x] Real photograph in the About panel (`assets/mason.jpg`)
 - [x] Favicon and Open Graph image added to `assets/`

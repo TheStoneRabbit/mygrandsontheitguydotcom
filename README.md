@@ -65,8 +65,7 @@ the fold or soften it.
 - [ ] Create the mailboxes: `hello@mygrandsontheitguy.com` and
       `check@mygrandsontheitguy.com` (both are referenced on the page)
 - [x] `privacy.html` and `terms.html` written — **need attorney review with template 04**
-- [ ] Replace the `ML` monogram with a real photograph. For this audience a
-      face materially outperforms a monogram
+- [x] Real photograph in the About panel (`assets/mason.jpg`)
 - [x] Favicon and Open Graph image added to `assets/`
 - [ ] Trade name registered with the Stamford town clerk
 - [ ] E&O + general liability bound, in-home visits disclosed

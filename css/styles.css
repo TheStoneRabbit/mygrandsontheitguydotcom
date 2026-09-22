@@ -485,12 +485,6 @@ h1, h2, h3, h4 {
   border-radius: var(--radius-lg); padding: 34px; text-align: center;
   box-shadow: var(--shadow);
 }
-.about-initials {
-  width: 104px; height: 104px; border-radius: 50%; margin: 0 auto 20px;
-  background: var(--teal); color: #fff;
-  display: grid; place-items: center;
-  font-family: var(--font-serif); font-size: 2.3rem; font-weight: 600;
-}
 .about-portrait h3 { font-size: 1.32rem; margin-bottom: 6px; }
 .about-role { font-size: .98rem; color: var(--ink-3); margin-bottom: 20px; }
 .about-creds { list-style: none; display: grid; gap: 11px; text-align: left; }
@@ -640,3 +634,14 @@ h1, h2, h3, h4 {
 }
 .plans-notice p { font-size: 1.04rem; margin: 0; color: var(--ink-2); }
 .plans-notice strong { color: var(--teal-deep); }
+
+/* Real photograph in the About panel. A face outperforms a monogram with
+   this audience by a wide margin — size it accordingly. */
+.about-photo {
+  width: 168px; height: 168px;
+  border-radius: 50%; object-fit: cover; object-position: center 42%;
+  margin: 0 auto 22px;
+  border: 4px solid var(--white);
+  box-shadow: 0 0 0 2px var(--teal-line), 0 10px 26px rgba(28,43,51,.14);
+}
+@media (max-width: 700px) { .about-photo { width: 148px; height: 148px; } }

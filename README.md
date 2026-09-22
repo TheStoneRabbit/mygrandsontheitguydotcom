@@ -13,7 +13,7 @@ repo: `docs/MY_GRANDSON_THE_IT_GUY.md`.
 ## ⚠️ Live as a waitlist — not yet selling
 
 The site is published, but **it does not sell anything yet.** The hero and the
-plans section say enquiries are open and the first clients start in November,
+plans section say inquiries are open and the first clients start in November,
 and the plan buttons read "Call to hold a place" rather than "Call to start".
 
 **Do not sign a client until E&O coverage is in force.** Talking to people is
@@ -75,7 +75,7 @@ the fold or soften it.
 - [ ] E&O + general liability bound, in-home visits disclosed
 - [x] Yale outside-activity policy cleared (2026-09-22)
 - [ ] Subscription agreement drafted and attorney-reviewed
-- [ ] Replace the example monthly summary with a real (anonymised) one
+- [ ] Replace the example monthly summary with a real (anonymized) one
 - [ ] Add testimonials once the founding cohort exists — this section is
       missing on purpose rather than filled with invented quotes
 
